@@ -5,7 +5,7 @@
 // Version 1.0
 // Author	Fardad Soleimanloo
 // Description
-//
+// DO NOT MODIFY THIS FILE
 // Revision History
 // -----------------------------------------------------------
 // Name            Date            Reason

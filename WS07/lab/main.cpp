@@ -4,12 +4,10 @@
 // File	main.cpp
 // Author	Fardad Soleimanloo
 // Description
-//
+// DO NOT MODIFY THIS FILE
 // Revision History
 // -----------------------------------------------------------
 // Name            Date            Reason
-//fardad           11-12           then date order in line 30 was incorrect
-                                   it is fixed now
 /////////////////////////////////////////////////////////////////
 ***********************************************************************/
 

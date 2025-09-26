@@ -7,7 +7,7 @@
 // Author      Fardad Soleimanloo
 // Description:
 // A Sensor analysis program using dma module
-//
+// DO NOT MODIFY THIS FILE
 // Revision History
 // -----------------------------------------------------------
 // Name            Date            Reason
