@@ -2,7 +2,7 @@
 // OOP244 Project/workshop, Utils Module
 //
 // File	Utils.h
-// started by Fardad
+// started by Inderpreet Kaur
 // Description
 // utility function to be used in the project or workshops
 // Revision History
