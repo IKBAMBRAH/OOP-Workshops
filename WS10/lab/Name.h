@@ -2,7 +2,7 @@
 // OOP244 workshop 10, Name module
 //
 // File	Name.h
-// Author Fardad
+// Author Inderpreet Kaur
 // Description
 //
 // Revision History
